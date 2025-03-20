@@ -33,7 +33,7 @@ a, a:hover {
   padding: 50px 20px;
   padding-top: 100px;
   display: flex;
-  background-image: url(/images/Backgr-02.jpg);
+  background-image: url(images/Backgr-02.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -50,7 +50,7 @@ a, a:hover {
   min-height: 460px;
   margin: auto;
   box-shadow: 0px 8px 60px -10px rgba(13, 28, 39, 0.6);
-  background-image: url('/images/banner-desktop-dji-flip-1.jpg'); /* <-- Thêm ảnh nền */
+  background-image: url('images/banner-desktop-dji-flip-1.jpg'); /* <-- Thêm ảnh nền */
   background-size: cover;      /* Ảnh phủ toàn bộ */
   background-position: center; /* Căn giữa ảnh */
   background-repeat: no-repeat; /* Không lặp lại ảnh */
